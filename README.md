@@ -2,7 +2,6 @@
 - 👀 I’m interested in high-performance computing, parallel algorithms, and machine learning.
 - 🌱 I’m currently learning CUDA programming and optimizing convolution algorithms with ARM NEON and Winograd.
 - 💞️ I’m looking to collaborate on open-source HPC projects, optimization techniques, and machine learning model acceleration.
-- 📫 How to reach me: You can reach me via email at wukuangzheng.a@gmail.com or connect with me on LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once optimized a sorting algorithm so well it ran faster than the disk I/O!
 
